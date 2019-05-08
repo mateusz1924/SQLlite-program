@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimplySqlProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimplySqlProject_jar</output-path>
+    <root id="archive" name="SimplySqlProject.jar">
+      <element id="module-output" name="SimplySqlProject" />
+      <element id="extracted-dir" path="C:/sqlite/sqlite-jdbc-3.27.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
